@@ -2,7 +2,7 @@
 
 The Door Locked System with Bluetooth and Keypad, utilizing the 8051 microcontroller, is a project aimed at enhancing security and convenience in door access control. This project combines the capabilities of Bluetooth technology and a physical keypad to create a robust and user-friendly door lock system.
 
-![Door Locked System](image.jpg)
+![Door Locked System](cam_prj/image.jpg)
 
 ## Overview
 
