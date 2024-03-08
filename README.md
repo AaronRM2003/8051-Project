@@ -28,8 +28,4 @@ The project focuses on integrating various components, including the AT89S52 mic
 
 1. Enter the correct passcode on the keypad or use the mobile app to send a Bluetooth signal.
 2. Upon successful authentication, the servo motor will unlock the door, and the LCD will display a confirmation message.
-3. If the wrong passcode is entered, or authentication fails, the buzzer will sound, and the LCD will display an error message.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure to follow the project's coding style and guidelines.
+3. If the wrong passcode is entered, or authentication fails, the buzzer will sound, and the LCD will display an error message. 
